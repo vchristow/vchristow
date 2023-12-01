@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vchristow
 - 👀 I’m interested in: how to clone a mac-os (Ventura 13.6.1) boot disk
 - 🌱 I’m currently learning N/A
-- - 💞️ I’m looking to collaborate on N/A
+- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me: 911@christow.cc
 
 <!---
